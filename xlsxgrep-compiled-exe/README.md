@@ -3,10 +3,10 @@
 Source code: https://github.com/zazuum/xlsxgrep
 
 
-MD5SUM 
-6c39aef500430bea608bd38fc6ba3eb8  xlsxgrep.exe
+MD5 hash of .\xlsxgrep.exe:
+274d9d9aafdb7ad97d10bab1a873ab4c
 
-SHA1SUM 
-7a09cf70d71e800377f4c1a3d24f88d2fe6e5bb8  xlsxgrep.exe
+SHA1 hash of .\xlsxgrep.exe:
+6eea9d25739c9d4bd339d4a1fc809c6bd645c6e6
 
 
