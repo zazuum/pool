@@ -1,12 +1,12 @@
-### XLSXGREP ( Windows compiled binary, xlsxgrep.exe )
-- tool to search text in XLSX and XLS files. It works similary to grep.
+### XLSXGREP ( Windows compiled exe, xlsxgrep.exe )
+- tool to search text in XLSX and XLS files. It works similarly to grep.
 Source code: https://github.com/zazuum/xlsxgrep
 
 
 MD5 hash of .\xlsxgrep.exe:
-274d9d9aafdb7ad97d10bab1a873ab4c
+b2e56a383238c3ab7479741bfb3e0a15
 
 SHA1 hash of .\xlsxgrep.exe:
-6eea9d25739c9d4bd339d4a1fc809c6bd645c6e6
+e94ed724f18bc5311b41e0f89d66a2cef239e4f4
 
 
